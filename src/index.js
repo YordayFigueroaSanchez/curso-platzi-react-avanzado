@@ -1,1 +1,4 @@
-console.log('Test de app.... !!!!----UFFF')
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+ReactDOM.render('Hola Test', document.body)
